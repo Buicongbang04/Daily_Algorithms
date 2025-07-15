@@ -1,0 +1,11 @@
+TransactionID,Sequence
+1,"Apple, Banana, Cereal, Donut"
+2,"Apple, Cereal, Donut"
+3,"Banana, Donut"
+4,"Apple, Donut"
+5,"Apple, Banana, Cereal"
+6,"Cereal, Donut"
+7,"Apple, Banana, Donut"
+8,"Apple, Banana"
+9,"Banana, Cereal"
+10,"Apple, Cereal, Donut"
